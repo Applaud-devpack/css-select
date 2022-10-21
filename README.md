@@ -5,7 +5,7 @@ a CSS selector compiler/engine
 <h2 align="center">Install</h2>
 
 ```bash
-npm i -D @applaud/copy-webpack-plugin
+npm i @applaud/css-select
 ```
 
 ## What?
